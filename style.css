@@ -1,0 +1,24 @@
+.heading {
+
+    background-color: blue;
+    text-align: center;
+    color: snow;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.links {
+
+   background-color: black;
+   text-align: center;
+   color: snow;
+   word-spacing: 2em;
+   
+   
+}
+.footer{
+    text-align: center; 
+    background-color: blue; 
+    border: 90px;
+}
+
+}
