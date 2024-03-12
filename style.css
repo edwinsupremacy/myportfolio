@@ -4,21 +4,40 @@
     text-align: center;
     color: snow;
     font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 40px;
 }
 
-.links {
+nav{
 
    background-color: black;
    text-align: center;
-   color: snow;
-   word-spacing: 2em;
+   padding: 20px;
+}
    
-   
+#home{
+padding: 25px;
+color: rgb(255, 255, 255);
+
+
+}
+#about{
+padding: 30px;
+color: rgb(255, 255, 255);
+}
+
+#projects{
+padding: 30px;
+color: rgb(255, 255, 255);
+}
+#contact{
+padding: 30px;
+color: rgb(255, 255, 255);
+
 }
 .footer{
     text-align: center; 
     background-color: blue; 
-    border: 90px;
+    padding: 5px;
+    color: white;
 }
 
-}
